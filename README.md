@@ -19,6 +19,6 @@ BudgetBuzz isn’t just another budgeting app – it's your **financial companio
 - Build better money habits
 - Save with purpose
 - Spend with clarity
-- Master your personal finances on the go
+
 
 
