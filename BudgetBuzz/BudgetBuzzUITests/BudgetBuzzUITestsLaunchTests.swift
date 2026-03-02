@@ -31,3 +31,4 @@ final class BudgetBuzzUITestsLaunchTests: XCTestCase {
         add(attachment)
     }
 }
+
