@@ -2,7 +2,7 @@
 OVERVIEW
 
 BudgetBuzz is an innovative iOS app designed to empower users in taking control of their financial lives. With an intuitive interface and intelligent tools, BudgetBuzz simplifies expense tracking, budget planning, and financial goal management – all in one place.
-
+ 
 ## 🚀 Features
 
 - 📊 Customizable Budgets** – Create and manage personalized budget categories.
