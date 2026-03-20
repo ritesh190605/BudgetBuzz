@@ -20,4 +20,4 @@ BudgetBuzz isn’t just another budgeting app – it's your **financial companio
 - Spend with clarity 
 
 
-
+ 
